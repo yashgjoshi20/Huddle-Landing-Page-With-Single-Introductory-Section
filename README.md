@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![](Screenshot/Screenshot-1.PNG)
-![](Screenshot/Screenshot-2.PNG)
+![](Screenshot/Screenshot-3.PNG)
 
 
 ### Links
